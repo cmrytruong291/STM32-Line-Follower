@@ -1,6 +1,6 @@
 # Các mốc firmware
 
-Các mốc học tập được dựng lại từ firmware xe; phạm vi kiểm tra được ghi theo từng tag.
+Các phiên bản firmware của xe; phạm vi kiểm tra được ghi theo từng tag.
 
 ## v0.8 · Tinh chỉnh PD/PID cho các đoạn cua liên tiếp
 
